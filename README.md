@@ -8,7 +8,7 @@
 - 😊 Disponivel para estágio / vaga junior 
 
   
- ![Dayvydson GitHub stats](https://github-readme-stats.vercel.app/api?username=dayvydson-santos&theme=dark&show_icons=true)
+ ![Dayvydson GitHub stats](https://github-readme-stats.vercel.app/api?username=dayvydson-santos&theme=react&show_icons=true)
   
 <div>
 
