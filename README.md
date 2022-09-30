@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estudo front-end ,
-- 🌱 Dando inicio tanmbém em nodejs
+- 🌱 Dando inicio tanbém em nodejs
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 😊 Disponivel para estágio / vaga junior 
 
