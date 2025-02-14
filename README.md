@@ -4,8 +4,8 @@
 
 - 🔭 Atualmente estudo front-end ,
 - 🌱 Dando inicio tanbém em nodejs
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 😊 Disponivel para estágio / vaga junior 
+- 📚 Curso Análise e Desenvolvimento de Sistemas
+- 😊 Disponivel para alguma vaga
 
   
  ![Dayvydson GitHub stats](https://github-readme-stats.vercel.app/api?username=dayvydson-santos&theme=react&show_icons=true)
