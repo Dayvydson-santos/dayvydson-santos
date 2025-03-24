@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Atualmente estudo front-end ,
+- 🔭 Atualmente estudo desenvolvimento web 
 - 🌱 Dando inicio tanbém em nodejs
-- 📚 Curso Análise e Desenvolvimento de Sistemas
+- 📚 Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 😊 Disponivel para alguma vaga
 
   
